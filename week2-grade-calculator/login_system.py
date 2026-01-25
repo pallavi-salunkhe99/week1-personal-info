@@ -1,0 +1,18 @@
+# Q. 5 Build a simple login system with username/password.
+
+print()
+print("*"*70)
+print("\t\t\tLogin System")
+print("*"*70)
+print()
+print("***** Login INPUT *****\n")
+username=input("Enter User Name: ")
+password=input("Enter Password:")
+print("\n***** OUTPU DATA *****\n")
+print("Username: ",username)
+print("Password: ",password)
+print()
+print("-"*70)
+print("\t\tThanks for visiting me My Python Program..!")
+print("-"*70)
+print()
