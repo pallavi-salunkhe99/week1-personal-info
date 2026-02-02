@@ -1,0 +1,14 @@
+[
+    {
+        "date": "2026-01-01",
+        "category": "food",
+        "description": "tea coffe pohe",
+        "amount": 500.0
+    },
+    {
+        "date": "2026-01-02",
+        "category": "book",
+        "description": "reading books like c c++ java python",
+        "amount": 3000.0
+    }
+]

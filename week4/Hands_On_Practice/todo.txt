@@ -1,0 +1,12 @@
+Task Title: Python Web development Roadmap
+1.Core Python
+2.Advanced Python
+3.HTML
+4.CSS
+
+Task Title: Java Web Development Roadmap
+1.Core Java
+2.Advanced Java
+3.Freamework
+4.HTML
+5.CSS
